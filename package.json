@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.3",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.13.0",
+    "mongoose": "^8.9.6",
+    "multer": "^1.4.5-lts.1",
+    "nodemailer": "^6.10.0"
+  },
+  "name": "socialmedia",
+  "version": "1.0.0",
+  "description": "backend app",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subrinSheikh/backendApi_social_Media.git"
+  },
+  "author": "Subrin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subrinSheikh/backendApi_social_Media/issues"
+  },
+  "homepage": "https://github.com/subrinSheikh/backendApi_social_Media#readme"
+}
